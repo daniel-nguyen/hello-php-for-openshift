@@ -1,0 +1,1 @@
+# hello-php-for-openshift
